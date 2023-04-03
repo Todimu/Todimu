@@ -8,8 +8,8 @@
 
 
 - 💬 Ask me about **Python, SQL, Tableau, Microsoft PowerBI**
-- 📫 How to reach me **todimupitan@gmail.com**
-- ⚡ Fun fact **I speak three languages: English, Python, and SQL.**
+- 📫 How to reach me: **todimupitan@gmail.com**
+- ⚡ Fun fact: **I speak three languages: English, Python, and SQL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
